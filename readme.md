@@ -30,3 +30,8 @@ flask run
 
 
 pip3 install flask-debugtoolbar
+
+```bash
+pip install -r requirements.txt #Install the requirements.txt
+pip freeze > requirements.txt #Create the requirements.txt
+```
