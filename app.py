@@ -1,5 +1,6 @@
 from flask import Flask, request, render_template, redirect, flash
 from surveys import satisfaction_survey as survey
+# -*- coding: utf-8 -*-
 
 app = Flask(__name__)
 
