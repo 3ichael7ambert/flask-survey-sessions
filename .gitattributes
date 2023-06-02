@@ -1,2 +1,2 @@
-*.py linguist-detectable=true
-*.py linguist-language=FLASK
+*.HTML linguist-detectable=true
+*.HTML linguist-language=FLASK
